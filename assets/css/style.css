@@ -1,0 +1,14 @@
+body{
+	background-image: url(https://daily.jstor.org/wp-content/uploads/2018/05/outer_space_treaty_1050x700.jpg);
+	text-align: center;
+}
+
+.text-muted{
+	color: blue;
+}
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+}
